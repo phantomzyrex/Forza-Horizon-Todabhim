@@ -1,0 +1,6 @@
+{
+  "name": "Apex Horizon: Metropolis",
+  "description": "An open-world 3D urban driving simulator featuring realistic vehicle physics, deep mechanical and visual customization, and an expansive metropolis to explore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
